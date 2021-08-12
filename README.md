@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshitgupta001 - a programmer, a part-time gamer, human life consultant(not professionally), a caring friend, etc.
+- 👋 Hi, I’m @Harshitgupta001 - programmer, photographer, sometimes a model too, gamer, human life consultant(not a professional), a caring friend, etc.
 - 👀 I’m interested in programming new applications and websites using HTML, CSS, Bootstrap, JS and PYTHON and its frameworks
 - 🌱 I’m currently learning Android App Development.
 - 💞️ I’m looking to get a job in a reputed firm and to taste essence of the corporate culture.
